@@ -1,7 +1,7 @@
 Voyager
 =======
 
-Simple Game by GLUT
+Simple Game by GLUT Eugene Khokhlov
 
 
 Voyager.cpp - the only file game. C++ with OpenGL.
